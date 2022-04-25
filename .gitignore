@@ -29,3 +29,4 @@ web/public/assets
 
 # Ignore master key for decrypting credentials and more.
 web/config/master.key
+data/*
