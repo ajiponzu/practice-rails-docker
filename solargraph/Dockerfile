@@ -8,4 +8,4 @@ RUN apk add --no-cache --virtual .build-deps make gcc musl-dev && \
 
 WORKDIR /app
 
-EXPOSE 7658
+EXPOSE 8091
