@@ -1,0 +1,4 @@
+{
+	"solargraph.useBundler": false,
+	"solargraph.commandPath": "/home/mita/.rbenv/shims/solargraph",
+}
